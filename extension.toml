@@ -1,0 +1,10 @@
+id = "schwifty-one-dark"
+name = "Schwifty One Dark"
+version = "0.1"
+schema_version = 1
+authors = ["Sean McQuaid <sean@mcquaid.dev>"]
+description = "Get schwifty ya'll. Get schwifty in here!!!"
+repository = "https://github.com/mcqua007/schwifty-one-dark-zed"
+
+[themes]
+"Schwifty One Dark Family" = "themes/schwifty-one-dark.json"
